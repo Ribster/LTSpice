@@ -1,0 +1,48 @@
+Title: * D:\Dropbox\School\05_Thomas_More\stm32dev\stm32f0 AFE dev\Voltage divider TSV991.asc
+Date: Fri Aug 07 22:12:27 2015
+Plotname: Operating Point
+Flags: real
+No. Variables: 33
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 vm vp vs vccp vccn
+Backannotation: u2 vm vp vs vccp vccn
+Variables:
+	0	V(3v3)	voltage
+	1	V(1v65)	voltage
+	2	V(n002)	voltage
+	3	V(dac_2div)	voltage
+	4	V(dac_out)	voltage
+	5	V(n005)	voltage
+	6	V(n001)	voltage
+	7	V(dac_nooff)	voltage
+	8	V(n004)	voltage
+	9	V(n003)	voltage
+	10	I(R10)	device_current
+	11	I(R9)	device_current
+	12	I(R8)	device_current
+	13	I(R7)	device_current
+	14	I(R6)	device_current
+	15	I(R5)	device_current
+	16	I(R4)	device_current
+	17	I(R3)	device_current
+	18	I(R2)	device_current
+	19	I(R1)	device_current
+	20	I(V3)	device_current
+	21	I(V2)	device_current
+	22	I(V1)	device_current
+	23	Ix(u1:VM)	subckt_current
+	24	Ix(u1:VP)	subckt_current
+	25	Ix(u1:VS)	subckt_current
+	26	Ix(u1:VCCP)	subckt_current
+	27	Ix(u1:VCCN)	subckt_current
+	28	Ix(u2:VM)	subckt_current
+	29	Ix(u2:VP)	subckt_current
+	30	Ix(u2:VS)	subckt_current
+	31	Ix(u2:VCCP)	subckt_current
+	32	Ix(u2:VCCN)	subckt_current
+Binary:
+gfffff
+@33Ó?Ë1Ó?þd@33Ó?UÌŒ?Tež?ê.S?þdž?O2§?¼Á9|´æ6¼Á9z´æ6×%[7
+@§7¹¬f8¹¬f¸¯æ8W±f8W±f¸@÷òºµÁëº°:Æ¤ò§Œ–êl;¹)I€:·Qº9<h«µ=h«|´æ6·Q:€„Sº

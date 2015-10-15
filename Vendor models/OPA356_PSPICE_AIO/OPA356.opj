@@ -1,0 +1,95 @@
+(ExpressProject "OPA356"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\opa356.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File "opa356.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (RootChangedForceReNetlist "x"))
+  (Folder "Outputs"
+    (File ".\opa356-pspicefiles\opa356_test_ckt\opa356_test_ckt.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\opa356-pspicefiles\opa356_test_ckt\dc.sim"
+        (DisplayName "OPA356_Test_Ckt-DC")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\opa356-pspicefiles\opa356_test_ckt\ac.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\opa356-pspicefiles\opa356_test_ckt\ac.sim"
+        (DisplayName "OPA356_Test_Ckt-AC")
+        (Type "PSpice Profile")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File ".\opa356.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName ".\opa356.lib"))))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (OPA356
+      (FullPartName "OPA356.Normal")
+      (LibraryName
+         "C:\USERS\A0867324\DOCUMENTS\DOCS-PROJECTS\SPICE MODELS\PA_MODELS\OPA356\PSPICE\OPA356_PSPICE_AIO\OPA356.OLB")
+      (DeviceIndex "0"))
+    (OPA355
+      (FullPartName "OPA355.Normal")
+      (LibraryName ".\OPA355.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (OPA2354
+      (FullPartName "OPA2354.Normal")
+      (LibraryName ".\OPA2354.OLB")
+      (DeviceIndex "0"))
+    (OPA2353
+      (FullPartName "OPA2353.Normal")
+      (LibraryName ".\OPA2353.OLB")
+      (DeviceIndex "0"))
+    (OPA353
+      (FullPartName "OPA353.Normal")
+      (LibraryName ".\OPA353.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "a0867324")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\a0867324\Documents\Docs-Projects\SPICE Models\PA_Models\OPA356\PSPICE\OPA356_PSPICE_AIO\opa356.dsn")
+      (Path "Design Resources"
+         "C:\Users\a0867324\Documents\Docs-Projects\SPICE Models\PA_Models\OPA356\PSPICE\OPA356_PSPICE_AIO\opa356.dsn"
+         "OPA356_Test_Ckt")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "PSpice Resources" "Model Libraries")
+      (Path "PSpice Resources" "Simulation Profiles"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 331"))
+      (Tab 0))))

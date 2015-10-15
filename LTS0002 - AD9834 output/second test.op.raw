@@ -1,0 +1,47 @@
+Title: * D:\Github\LTSpice\LTS0002 - AD9834 output\second test.asc
+Date: Thu Oct 15 08:12:57 2015
+Plotname: Operating Point
+Flags: real
+No. Variables: 34
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 1 2 3 4 5
+Backannotation: u2 1 2 3 4 5
+Variables:
+	0	V(iout)	voltage
+	1	V(ioutb)	voltage
+	2	V(3v3)	voltage
+	3	V(n001)	voltage
+	4	V(n006)	voltage
+	5	V(-3v3)	voltage
+	6	V(n002)	voltage
+	7	V(n004)	voltage
+	8	V(n005)	voltage
+	9	V(n003)	voltage
+	10	I(C2)	device_current
+	11	I(C1)	device_current
+	12	I(R8)	device_current
+	13	I(R7)	device_current
+	14	I(R6)	device_current
+	15	I(R5)	device_current
+	16	I(R4)	device_current
+	17	I(R3)	device_current
+	18	I(R2)	device_current
+	19	I(R1)	device_current
+	20	I(V4)	device_current
+	21	I(V3)	device_current
+	22	I(V2)	device_current
+	23	I(V1)	device_current
+	24	Ix(u1:1)	subckt_current
+	25	Ix(u1:2)	subckt_current
+	26	Ix(u1:3)	subckt_current
+	27	Ix(u1:4)	subckt_current
+	28	Ix(u1:5)	subckt_current
+	29	Ix(u2:1)	subckt_current
+	30	Ix(u2:2)	subckt_current
+	31	Ix(u2:3)	subckt_current
+	32	Ix(u2:4)	subckt_current
+	33	Ix(u2:5)	subckt_current
+Binary:
+þL¾„ó®Ò??v•>33S@»“|>»¥|>33SÀà­Ù¹RµC?H¾C?Q7í?3î˜–oz¨Dí„¹ÉÐ;Ÿ …¹–ç;Uy¬¸X·¬¸FG©¸"©¸KLÌ»!Ò»"©¸FG©¸ÓZ³µVk¶µÉÐ»ðÖ;Þ¯»ÇƒÌµ›ÎµQM;tï:\tŠ»

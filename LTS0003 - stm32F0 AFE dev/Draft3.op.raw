@@ -1,0 +1,29 @@
+Title: * D:\Dropbox\School\05_Thomas_More\stm32dev\stm32f0 AFE dev\Draft3.asc
+Date: Fri Aug 07 22:53:23 2015
+Plotname: Operating Point
+Flags: real
+No. Variables: 17
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 vm vp vs vccp vccn
+Variables:
+	0	V(n001)	voltage
+	1	V(n002)	voltage
+	2	V(n003)	voltage
+	3	V(3v3)	voltage
+	4	V(n004)	voltage
+	5	I(R5)	device_current
+	6	I(R4)	device_current
+	7	I(R3)	device_current
+	8	I(R2)	device_current
+	9	I(R1)	device_current
+	10	I(V2)	device_current
+	11	I(V1)	device_current
+	12	Ix(u1:VM)	subckt_current
+	13	Ix(u1:VP)	subckt_current
+	14	Ix(u1:VS)	subckt_current
+	15	Ix(u1:VCCP)	subckt_current
+	16	Ix(u1:VCCN)	subckt_current
+Binary:
+†HÝ{\@ë??Cõ?HZ?33S@33Ó?š˜²8˜²¶F˜2·o§8H˜2·o§¸©æUºOºà«á¹à«$ò…·©æU:·Qº

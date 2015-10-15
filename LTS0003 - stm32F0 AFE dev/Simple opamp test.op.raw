@@ -1,0 +1,26 @@
+Title: * D:\Dropbox\School\05_Thomas_More\stm32dev\stm32f0 AFE dev\Simple opamp test.asc
+Date: Fri Aug 07 21:19:36 2015
+Plotname: Operating Point
+Flags: real
+No. Variables: 13
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 vm vp vs vccp vccn
+Variables:
+	0	V(n001)	voltage
+	1	V(vout)	voltage
+	2	V(n002)	voltage
+	3	V(3v3)	voltage
+	4	I(R2)	device_current
+	5	I(R1)	device_current
+	6	I(V2)	device_current
+	7	I(V1)	device_current
+	8	Ix(u1:VM)	subckt_current
+	9	Ix(u1:VP)	subckt_current
+	10	Ix(u1:VS)	subckt_current
+	11	Ix(u1:VCCP)	subckt_current
+	12	Ix(u1:VCCN)	subckt_current
+Binary:
+f@È
+Cú? R@33Ó?33S@õ,9õ,¹ gŒe]O»Ÿ›¨ gŒ–õ,¹e]O;¦›D»

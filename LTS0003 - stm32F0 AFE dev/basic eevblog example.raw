@@ -1,0 +1,26 @@
+Title: * D:\Dropbox\School\05_Thomas_More\stm32dev\stm32f0 AFE dev\basic eevblog example.asc
+Date: Fri Aug 07 18:53:08 2015
+Plotname: Operating Point
+Flags: real
+No. Variables: 15
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Variables:
+	0	V(n001)	voltage
+	1	V(n003)	voltage
+	2	V(n004)	voltage
+	3	V(n002)	voltage
+	4	V(n005)	voltage
+	5	I(R9)	device_current
+	6	I(R8)	device_current
+	7	I(R7)	device_current
+	8	I(R6)	device_current
+	9	I(R5)	device_current
+	10	I(R4)	device_current
+	11	I(R3)	device_current
+	12	I(R2)	device_current
+	13	I(R1)	device_current
+	14	I(V1)	device_current
+Binary:
+ê‡k¨sï?\î3?eq·>€úA?ww¾>±	Ã9‚ì9ë:Ê94'f7[b‡¸xØ»9§Î’9>§´9—Ó€:!Œàº
