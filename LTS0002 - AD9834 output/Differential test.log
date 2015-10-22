@@ -1,5 +1,37 @@
 Circuit: * D:\Github\LTSpice\LTS0002 - AD9834 output\Differential test.asc
 
+Instance "m:u4:15": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:13": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:13": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u4:11": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:10": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:9": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:15": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:13": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:13": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u3:11": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:10": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:9": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:1": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:u2:15": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:u2:13": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:u2:13": Width narrower than recommended for a level 1 MOSFET.
@@ -32,6 +64,7 @@ Instance "m:u1:3": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:u1:2": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:u1:8": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:u1:1": Length shorter than recommended for a level 1 MOSFET.
+Early termination of direct N-R iteration.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -127,29 +160,137 @@ Source Step = 83.081%
 Source Step = 85.6407%
 Source Step = 88.2004%
 Source Step = 90.7601%
-Source Step = 93.3198%
-vernier = 0.126705
-Source Step = 96.2635%
-Source Step = 100%
+Source Step = 91.4641%
+vernier = 0.00131985
+Source Step = 91.4881%
+Source Step = 91.5281%
+Source Step = 91.5681%
+Source Step = 91.608%
+Source Step = 91.648%
+Source Step = 91.688%
+Source Step = 91.728%
+Source Step = 91.768%
+Source Step = 91.808%
+Source Step = 91.848%
+Source Step = 91.888%
+Source Step = 91.928%
+Source Step = 91.968%
+Source Step = 92.008%
+Source Step = 92.048%
+Source Step = 92.088%
+Source Step = 92.128%
+Source Step = 92.168%
+Source Step = 92.208%
+Source Step = 92.248%
+Source Step = 92.288%
+Source Step = 92.328%
+Source Step = 92.368%
+Source Step = 92.408%
+Source Step = 92.4479%
+Source Step = 92.4879%
+Source Step = 92.5279%
+Source Step = 92.5679%
+Source Step = 92.6079%
+Source Step = 92.6479%
+Source Step = 92.6879%
+Source Step = 92.7279%
+Source Step = 92.7679%
+Source Step = 92.8079%
+Source Step = 92.8479%
+Source Step = 92.8879%
+Source Step = 92.9279%
+Source Step = 92.9679%
+Source Step = 93.0079%
+Source Step = 93.0479%
+Source Step = 93.0879%
+Source Step = 93.1279%
+Source Step = 93.1679%
+Source Step = 93.2079%
+Source Step = 93.2479%
+Source Step = 93.2879%
+Source Step = 93.3278%
+Source Step = 93.3678%
+Source Step = 93.4078%
+Source Step = 93.4478%
+Source Step = 93.4878%
+Source Step = 93.5278%
+Source Step = 93.5678%
+Source Step = 93.6078%
+Source Step = 93.6478%
+Source Step = 93.6878%
+Source Step = 93.7278%
+Source Step = 93.7678%
+Source Step = 93.8078%
+Source Step = 93.8478%
+Source Step = 93.8878%
+Source Step = 93.9278%
+Source Step = 93.9678%
+Source Step = 94.0078%
+Source Step = 94.0478%
+Source Step = 94.0878%
+Source Step = 94.1278%
+Source Step = 94.1678%
+Source Step = 94.2077%
+Source Step = 94.2477%
+Source Step = 94.2877%
+Source Step = 94.3277%
+Source Step = 94.3677%
+vernier = 0.00197977
+Source Step = 94.4097%
+Source Step = 94.4697%
+Source Step = 94.5297%
+Source Step = 94.5897%
+Source Step = 94.6497%
+Source Step = 94.7097%
+vernier = 0.00296966
+Source Step = 94.7997%
+Source Step = 94.8897%
+Source Step = 94.9797%
+Source Step = 95.0696%
+Source Step = 95.1596%
+vernier = 0.00445449
+Source Step = 95.2901%
+Source Step = 95.4251%
+Source Step = 95.5601%
+Source Step = 95.6951%
+Source Step = 95.8301%
+vernier = 0.00668173
+Source Step = 96.019%
+Source Step = 96.2215%
+Source Step = 96.424%
+Source Step = 96.6265%
+Source Step = 96.8289%
+vernier = 0.0100226
+Source Step = 97.1023%
+Source Step = 97.406%
+Source Step = 97.7097%
+Source Step = 98.0134%
+Source Step = 98.3171%
+vernier = 0.0150339
+Source Step = 98.712%
+Source Step = 99.1676%
+Source Step = 99.6231%
 Source stepping succeeded in finding the operating point.
 
+Changing Tseed to 9.76563e-011
+Heightened Def Con from 1.2632e-010 to 2.12632e-009
 
-Date: Fri Oct 16 10:09:36 2015
-Total elapsed time: 1.176 seconds.
+Date: Sat Oct 17 09:14:48 2015
+Total elapsed time: 39.682 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 6637
-traniter = 2262
-tranpoints = 1082
-accept = 1073
-rejected = 9
-matrix size = 186
-fillins = 489
+totiter = 60327
+traniter = 3407
+tranpoints = 1171
+accept = 1126
+rejected = 45
+matrix size = 363
+fillins = 1309
 solver = Normal
-Thread vector: 28.2/17.2[3] 12.6/7.5[3] 6.1/4.9[3] 1.2/1.5[1]  2592/500
-Matrix Compiler1: 22,5 kB object code size  8.0/3.6/[1.9]
-Matrix Compiler2: 24,6 kB object code size  3.4/5.8/[1.7]
+Thread vector: 46.6/27.5[4] 24.3/18.3[4] 13.4/8.8[4] 2.3/2.4[1]  2592/500
+Matrix Compiler1: 69,9 kB object code size  26.9/12.5/[7.1]
+Matrix Compiler2: 54,7 kB object code size  10.5/10.8/[3.3]
 
 
