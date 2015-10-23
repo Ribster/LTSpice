@@ -1,0 +1,66 @@
+Circuit: * D:\Github\LTSpice\LTS0004 - ALT0075 REV C\ALT0075 REV C.asc
+
+WARNING: Less than two connections to node U3:VB_2_VREF.  This node is used by E:U3:58.
+WARNING: Less than two connections to node U4:VB_2_VREF.  This node is used by E:U4:58.
+Instance "m:u4:_nmos1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:_nmos1": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u4:_nmos2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:_nmos2": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u3:_nmos1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:_nmos1": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u3:_nmos2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:_nmos2": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:_nmos1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:_nmos2": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 1.34218
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 40.1515%
+Source Step = 47.7273%
+Source Step = 55.303%
+Source Step = 62.8788%
+Source Step = 70.4545%
+vernier = 0.375
+Source Step = 81.0606%
+Source Step = 92.4242%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Fri Oct 23 19:16:35 2015
+Total elapsed time: 1.600 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17168
+traniter = 15093
+tranpoints = 5447
+accept = 4386
+rejected = 1061
+matrix size = 287
+fillins = 512
+solver = Normal
+Thread vector: 47.8/22.8[4] 8.2/3.9[4] 21.0/10.8[4] 1.3/1.8[1]  2592/500
+Matrix Compiler1: 52,5 kB object code size  13.3/7.4/[4.8]
+Matrix Compiler2: 28,6 kB object code size  5.8/8.7/[2.1]
+
+
